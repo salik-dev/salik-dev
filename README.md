@@ -8,7 +8,7 @@
 
 🧑‍💻 **About Me**
 
-I'm a passionate Full Stack MERN Developer** with 1.5 years of hands-on experience building modern, scalable, and user-friendly web apps using the MERN stack technologies.
+I'm a passionate Full Stack MERN Developer with 1.5 years of hands-on experience building modern, scalable, and user-friendly web apps using the MERN stack technologies.
 
 I love to:
 - Build real-world projects with React.js, Next.js, and Node.js ⚙️
