@@ -2,8 +2,9 @@
 
 🚀 MERN Stack Developer | React & Next.js Enthusiast | Problem Solver  
 📍 Islamabad/Rawalpindi, Pakistan  
-🌐 [Portfolio Website](https://bahadurali.vercel.app) • 📫 [Email Me](mailto:balisaalik@gmail.com) • 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/bahaduralisalik)  
+🌐 [Portfolio Website](https://bahadurali.vercel.app) • 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/bahaduralisalik)  
 
+---
 
 🧑‍💻 About Me
 
@@ -14,6 +15,7 @@ I love to:
 - Solve bugs, improve performance, and integrate APIs like a ninja 🔧
 - Learn new technologies, contribute to open source, and grow with the community 🚀
 
+---
 
 🛠️ Tech Stack
 
@@ -26,6 +28,7 @@ Node.js • Express.js • MongoDB • MySQL
 Tools & Skills: 
 Redux Toolkit • Git • GitHub • REST APIs • Third-party Integrations • UI/UX • Problem Solving • Team Collaboration  
 
+---
 
 🏆 Achievements
 
@@ -34,6 +37,7 @@ Redux Toolkit • Git • GitHub • REST APIs • Third-party Integrations • 
 - 💰 **Grant Winner** at Software Exposition for my AI-based facial recognition system  
 - 🌟 Delivered 10+ real-world projects (Microservices, E-commerce, AI tools, and more)
   
+---
 
 🔨 Featured Projects
 
@@ -43,6 +47,7 @@ Redux Toolkit • Git • GitHub • REST APIs • Third-party Integrations • 
 - 🌰 **[Shazday Dry Fruits](https://shazday.vercel.app/)** – E-commerce platform for a local business  
 - 🛠️ **More on [Fiverr](https://www.fiverr.com/saa1ik?public_mode=true)** – 6+ custom MERN projects
 
+---
 
 🌱 Interests & Hobbies
 
@@ -51,13 +56,3 @@ Redux Toolkit • Git • GitHub • REST APIs • Third-party Integrations • 
 
 Best,
 Thanks for your time
-
-### 🙌 Let's Connect!
-
-If you’re looking for a passionate developer or collaborator, let’s talk!  
-📩 [balisaalik@gmail.com](mailto:balisaalik@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/bahaduralisalik) | 🌍 [Website](https://bahadurali.vercel.app)
-
----
-
-> 💬 *"Code with purpose, build with passion."*
