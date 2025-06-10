@@ -6,7 +6,7 @@
 
 ---
 
-🧑‍💻 About Me
+🧑‍💻 **About Me**
 
 I'm a passionate Full Stack MERN Developer** with 1.5 years of hands-on experience building modern, scalable, and user-friendly web apps using the MERN stack technologies.
 
@@ -17,7 +17,7 @@ I love to:
 
 ---
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Frontend: 
 React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • MUI • AntD • HTML • CSS • Shadcn  
@@ -30,7 +30,7 @@ Redux Toolkit • Git • GitHub • REST APIs • Third-party Integrations • 
 
 ---
 
-🏆 Achievements
+🏆 **Achievements**
 
 - 🥈 **2nd Place** in University Speed Programming Competition  
 - 🎖️ **3rd Topper** in BSCS at University of Baltistan  
@@ -39,7 +39,7 @@ Redux Toolkit • Git • GitHub • REST APIs • Third-party Integrations • 
   
 ---
 
-🔨 Featured Projects
+🔨 **Featured Projects**
 
 - 🔐 **[Microservices Chat App](https://github.com/salik-dev)** – Auth, group/private chats, admin broadcast, appointment & insurance modules  
 - 🚗 **[Aadmirals US Car Booking](https://aadmirals.com)** – Car booking platform with real-time availability  
@@ -54,5 +54,5 @@ Redux Toolkit • Git • GitHub • REST APIs • Third-party Integrations • 
 📚 Reading | 🎵 Music | 📸 Photography | 🌍 Traveling | 🧩 Problem Solving | 🎯 Event Management
 
 
-Best,
+**Best**,
 Thanks for your time
