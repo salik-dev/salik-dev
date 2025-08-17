@@ -41,10 +41,10 @@ Redux Toolkit • Git • GitHub • REST APIs • Third-party Integrations • 
 
 🔨 **Featured Projects**
 
-- 🔐 **[Microservices Chat App](https://github.com/salik-dev)** – Auth, group/private chats, admin broadcast, appointment & insurance modules  
+- 🔐 **[Microservices Chat App](https://github.com/salik-dev)** – Auth, group/private chats, admin broadcast, appointment & insurance modules
+- - 🌰 **[Skardu Organics Website](https://skardu-organics.vercel.app/)** – E-commerce platform for sellings Organics  
 - 🚗 **[Aadmirals US Car Booking](https://aadmirals.com)** – Car booking platform with real-time availability  
 - 🧠 **[AI Enhancer](https://ai-img-enhancer.vercel.app)** – Enhance images, audio, and music using ModelLabs APIs  
-- 🌰 **[Shazday Dry Fruits](https://shazday.vercel.app/)** – E-commerce platform for a local business  
 - 🛠️ **More on [Fiverr](https://www.fiverr.com/saa1ik?public_mode=true)** – 6+ custom MERN projects
 
 ---
