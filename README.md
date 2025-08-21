@@ -1,58 +1,87 @@
-### 👋 Hi there! I'm Bahadur Ali
-
-🚀 MERN Stack Developer | React & Next.js Enthusiast | Problem Solver  
-📍 Islamabad/Rawalpindi, Pakistan  
-🌐 [Portfolio Website](https://bahadurali.vercel.app) • 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/bahaduralisalik)  
-
----
-
-🧑‍💻 **About Me**
-
-I'm a passionate Full Stack MERN Developer with 1.5 years of hands-on experience building modern, scalable, and user-friendly web apps using the MERN stack technologies.
-
-I love to:
-- Build real-world projects with React.js, Next.js, and Node.js ⚙️
-- Solve bugs, improve performance, and integrate APIs like a ninja 🔧
-- Learn new technologies, contribute to open source, and grow with the community 🚀
+# 👋 Hi, I'm Bahadur Ali  
+💼 Full Stack MERN Developer (React.js | Next.js | Node.js | Express.js | MongoDB)  
+🚀 3+ Years of Hands-On Experience  
+🎯 Helping Startups & Businesses Build Scalable Web Apps  
+🌍 Based in Islamabad / Rawalpindi, Pakistan  
 
 ---
 
-🛠️ **Tech Stack**
+## 👨‍💻 Who I Am  
+I’m a passionate **Full Stack Developer** with a strong focus on building **scalable, secure, and high-performing web applications**.  
+I help startups and businesses bring their ideas to life with clean, maintainable code and seamless user experiences.  
 
-Frontend: 
-React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • MUI • AntD • HTML • CSS • Shadcn  
-
-Backend & Database:
-Node.js • Express.js • MongoDB • MySQL  
-
-Tools & Skills: 
-Redux Toolkit • Git • GitHub • REST APIs • Third-party Integrations • UI/UX • Problem Solving • Team Collaboration  
+✅ 3+ Years of Real-World Project Experience  
+✅ 10+ Production-Level Applications  
+✅ Proven Record in MERN, SaaS, and AI-Powered Apps  
 
 ---
 
-🏆 **Achievements**
+## 🔧 Tech Stack  
 
-- 🥈 **2nd Place** in University Speed Programming Competition  
-- 🎖️ **3rd Topper** in BSCS at University of Baltistan  
-- 💰 **Grant Winner** at Software Exposition for my AI-based facial recognition system  
-- 🌟 Delivered 10+ real-world projects (Microservices, E-commerce, AI tools, and more)
-  
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
+
+**Integrations & Tools:**  
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)  
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
 ---
 
-🔨 **Featured Projects**
+## 🌟 Highlighted Projects  
 
-- 🔐 **[Microservices Chat App](https://github.com/salik-dev)** – Auth, group/private chats, admin broadcast, appointment & insurance modules
-- 🌰 **[Skardu Organics Website](https://skardu-organics.vercel.app/)** – E-commerce platform for sellings Organics  
-- 🚗 **[Aadmirals US Car Booking](https://aadmirals.com)** – Car booking platform with real-time availability  
-- 🧠 **[AI Enhancer](https://ai-img-enhancer.vercel.app)** – Enhance images, audio, and music using ModelLabs APIs  
-- 🛠️ **More on [Fiverr](https://www.fiverr.com/saa1ik?public_mode=true)** – 6+ custom MERN projects
+🔒 **E-Commerce Platform – Skardu Organics**  
+- Custom MERN Stack Store with **Stripe & COD Payments**  
+- Integrated **AI Voice Assistant** for product search & support  
+- Real-time order tracking & **SMS alerts**  
+
+🔒 **AI Enhancer Web Application**  
+- Built with **React / Next.js**  
+- Automates **Image Enhancement, Voice/Text Conversion, Music Generator, Sound Effects**  
+- Subscription system using **Stripe Payments**  
+
+🔒 **Real-Time Chat App**  
+- MERN-based chat with **RBAC system (Admin & Employee)**  
+- Admin can broadcast, control chats, and manage users  
+- Real-time messaging with **Socket.io + MongoDB**  
 
 ---
 
-🌱 Interests & Hobbies
+## 💡 Why Clients Hire Me  
+- Strong focus on **scalable, reliable, and secure apps**  
+- Transparent communication & regular progress updates  
+- **Clean Code + On-Time Delivery + Reliable Support**  
+- **2 Months Free Support** after project completion  
 
-📚 Reading | 🎵 Music | 📸 Photography | 🌍 Traveling | 🧩 Problem Solving | 🎯 Event Management
+---
 
+## 📊 GitHub Insights  
 
-**Best**,
-Thanks for your time
+![Bahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahadurali&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bahadurali&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=bahadurali&theme=radical)  
+
+---
+
+## 📬 Connect with Me  
+Feel free to explore my professional journey and projects:  
+
+🌐 [LinkedIn](#)  
+🔗 [Upwork Profile](#)  
+
+---
+
+✨ *“Build with passion. Deliver with precision.”* — **Bahadur Ali**
