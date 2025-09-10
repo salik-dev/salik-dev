@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bahadur Ali  
 💼 Full Stack MERN Developer (React.js | Next.js | Node.js | Express.js | MongoDB)  
-🚀 2 Years of Hands-On Experience  
+🚀 3 Years of Hands-On Experience  
 🎯 Helping Startups & Businesses Build Scalable Web Apps  
 🌍 Based in Islamabad / Rawalpindi, Pakistan  
 
